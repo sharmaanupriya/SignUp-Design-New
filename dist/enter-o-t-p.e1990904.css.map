@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["enter-o-t-p.css"],"sourcesContent":[".enter-otp {\n  position: relative;\n  font-size: var(--font-size-xl);\n  font-weight: 500;\n  font-family: var(--font-poppins);\n  color: var(--color-gray);\n  text-align: left;\n}\n"],"names":[],"version":3,"file":"enter-o-t-p.e1990904.css.map","sourceRoot":"/__parcel_source_root/"}

@@ -1,0 +1,298 @@
+.resend {
+  color: var(--color-tomato-100);
+}
+
+.did-receive-otp-container {
+  color: var(--color-dimgray);
+  width: 241px;
+  display: inline-block;
+  position: absolute;
+  top: 370px;
+  left: 0;
+}
+
+.enter-mobile-number {
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  position: absolute;
+  top: 66px;
+  left: 1px;
+}
+
+.enter-the-valid {
+  color: var(--color-dimgray);
+  width: 309px;
+  display: inline-block;
+  top: 188px;
+  left: 1px;
+}
+
+.div, .enter-the-valid, .sign-in {
+  position: absolute;
+}
+
+.sign-in {
+  width: 286px;
+  margin: 0;
+  font-family: inherit;
+  font-size: 30px;
+  font-weight: 700;
+  display: inline-block;
+  top: 0;
+  left: 1px;
+}
+
+.div {
+  top: 17px;
+  left: 20px;
+}
+
+.frame-child6, .frame-child7 {
+  border-radius: var(--br-sm);
+  height: 62px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-child6 {
+  background-color: var(--color-gainsboro);
+  width: 222px;
+  left: 0;
+}
+
+.frame-child7 {
+  background-color: #c88fef;
+  width: 92px;
+  left: 238px;
+}
+
+.get-otp {
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-weight: 500;
+  position: absolute;
+  top: 18px;
+  left: 252px;
+}
+
+.frame3, .frame4 {
+  font-size: var(--font-size-lg);
+  width: 330px;
+  height: 62px;
+  position: absolute;
+  top: 113px;
+  left: 1px;
+  overflow: hidden;
+}
+
+.frame3 {
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray);
+  font-family: var(--font-poppins);
+  width: 331px;
+  height: 393px;
+  top: 33px;
+  left: 29px;
+}
+
+.frame-child10, .frame-child11, .frame-child8, .frame-child9 {
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 72px;
+  height: 64px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 8px 8px #9393931f;
+}
+
+.frame-child10, .frame-child11, .frame-child9 {
+  left: 84px;
+}
+
+.frame-child10, .frame-child11 {
+  left: 169px;
+}
+
+.frame-child11 {
+  left: 254px;
+}
+
+.frame6 {
+  width: 326px;
+  height: 64px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.frame6, .frame7, .submit {
+  position: absolute;
+}
+
+.submit {
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  top: 14px;
+  left: 131px;
+}
+
+.frame7 {
+  cursor: pointer;
+  border-radius: var(--br-sm);
+  background-color: #ddd5e2;
+  border: 0;
+  width: 324px;
+  height: 56px;
+  padding: 0;
+  top: 142px;
+  left: 0;
+  overflow: hidden;
+}
+
+.or-sign-up {
+  width: 121px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 111px;
+}
+
+.frame-child12, .line-div {
+  border-top: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 91px;
+  height: 1px;
+  position: absolute;
+  top: 12.5px;
+  left: -.5px;
+}
+
+.frame-child12 {
+  left: 235.5px;
+}
+
+.frame8 {
+  width: 326px;
+  height: 23px;
+  position: absolute;
+  top: 232px;
+  left: 0;
+  overflow: hidden;
+}
+
+.google, .icon {
+  position: absolute;
+  top: 17px;
+  left: 61px;
+}
+
+.icon {
+  object-fit: cover;
+  width: 26px;
+  height: 26px;
+  top: 19px;
+  left: 20px;
+}
+
+.frame5, .frame9 {
+  width: 330px;
+  position: absolute;
+  overflow: hidden;
+}
+
+.frame9 {
+  border-radius: var(--br-sm);
+  font-size: var(--font-size-lg);
+  color: var(--color-gray);
+  background-color: #0000;
+  height: 62px;
+  top: 298px;
+  left: 0;
+}
+
+.frame5 {
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray);
+  font-family: var(--font-poppins);
+  height: 360px;
+  top: 314px;
+  left: 30px;
+}
+
+.not-a-member, .sign-up-now {
+  width: 126px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.sign-up-now {
+  color: var(--color-tomato-100);
+  font-weight: 500;
+  left: 132px;
+}
+
+.frame11 {
+  width: 258px;
+  height: 24px;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  overflow: hidden;
+}
+
+.facebook, .facebook-1-icon {
+  position: absolute;
+  top: 18px;
+  left: 61px;
+}
+
+.facebook-1-icon {
+  object-fit: cover;
+  width: 28px;
+  height: 28px;
+  left: 19px;
+}
+
+.frame10, .frame12 {
+  width: 330px;
+  position: absolute;
+  overflow: hidden;
+}
+
+.frame12 {
+  border-radius: var(--br-sm);
+  background-color: var(--color-gainsboro);
+  font-size: var(--font-size-lg);
+  color: var(--color-gray);
+  height: 62px;
+  top: 0;
+  left: 0;
+}
+
+.frame10 {
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray);
+  font-family: var(--font-poppins);
+  height: 104px;
+  top: 688px;
+  left: 30px;
+}
+
+.iphone-14-275 {
+  background-color: var(--color-white);
+  width: 100%;
+  height: 844px;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=i-phone-14-275.8b8ae21f.css.map */
